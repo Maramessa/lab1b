@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+# *What is a growth mindset
+A mind that depends on qualities, abilities, talents, and is not fixed and can be learned, developed and changed
+
+
 
 You can use the [editor on GitHub](https://github.com/Maramessa/lab1b/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
